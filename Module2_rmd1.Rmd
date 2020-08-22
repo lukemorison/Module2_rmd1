@@ -117,6 +117,7 @@ knitr::kable(head(cars), caption = "Top 6 Rows of Cars dataset")
 ## Insert an Equation
 
 $$ Y = \beta_0 + \beta_1x $$
+
 ## Insert Images
 
 here is an image inserted
